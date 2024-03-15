@@ -161,7 +161,6 @@ h3 {
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
-  cursor: pointer;
   position: absolute;
   background-color: #ffffff;
   min-width: 215px;
